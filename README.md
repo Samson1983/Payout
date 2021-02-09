@@ -57,7 +57,7 @@
    不使用皮肤,可以把目录PersonInOut.ini文件中的
    SkindDataAction=1改为SkindDataAction=0; 
 
-
+包含 ：安装包制作脚本：InnoSetup 的payoutV2.5.iss
 
 #### 功能界面：
 
